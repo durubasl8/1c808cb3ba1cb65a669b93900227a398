@@ -1,1 +1,52 @@
-{"update":{"available":0,"update_url":"NA"},"movie":[{"imdb_rating":8.7,"year":2018,"genre":"Action","language":"English","movie_name":"Avengers: Infinity War","openload_id":"idle","poster":"https://m.media-amazon.com/images/M/MV5BMTUyMTU2NjUxM15BMl5BanBnXkFtZTgwOTg2MTUwNTM@._V1_UY666_CR166,0,666,666_AL__QL50.jpg","print":"720p"},{"imdb_rating":8.1,"year":2012,"genre":"Action","language":"English","movie_name":"The Avengers","openload_id":"idle","poster":"https://m.media-amazon.com/images/M/MV5BMTM2MzY1ODc1Nl5BMl5BanBnXkFtZTcwNTg4OTY3Nw@@._V1_UY666_CR259,0,666,666_AL__QL50.jpg","print":"720p"},{"imdb_rating":8.1,"year":2014,"genre":"Action","language":"English","movie_name":"Guardians of the Galaxy","openload_id":"idle","poster":"https://m.media-amazon.com/images/M/MV5BMTQzNjcxNzU5OV5BMl5BanBnXkFtZTgwOTMzODg3MTE@._V1_UY666_CR167,0,666,666_AL__QL50.jpg","print":"720p"},{"imdb_rating":7.9,"year":2008,"genre":"Action","language":"English","movie_name":"Iron Man","openload_id":"idle","poster":"https://m.media-amazon.com/images/M/MV5BMjY4MDk0OTQ2MF5BMl5BanBnXkFtZTcwNTgxNTIzMw@@._V1_UY666_CR166,0,666,666_AL__QL50.jpg","print":"720p"}]}
+{
+  "update": {
+    "available": 0,
+    "update_url": "NA"
+  },
+  "movie": [
+    {
+      "imdb_rating": 8.7,
+      "year": 2018,
+      "genre": "Action",
+      "language": "English",
+      "length": "2h30m",
+      "movie_name": "Avengers: Infinity War",
+      "openload_id": "idle",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUyMTU2NjUxM15BMl5BanBnXkFtZTgwOTg2MTUwNTM@._V1_UY666_CR166,0,666,666_AL__QL50.jpg",
+      "print": "720p"
+    },
+    {
+      "imdb_rating": 8.1,
+      "year": 2012,
+      "genre": "Action",
+      "language": "English",
+      "length": "2h30m",
+      "movie_name": "The Avengers",
+      "openload_id": "idle",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MzY1ODc1Nl5BMl5BanBnXkFtZTcwNTg4OTY3Nw@@._V1_UY666_CR259,0,666,666_AL__QL50.jpg",
+      "print": "720p"
+    },
+    {
+      "imdb_rating": 8.1,
+      "year": 2014,
+      "genre": "Action",
+      "language": "English",
+      "length": "2h30m",
+      "movie_name": "Guardians of the Galaxy",
+      "openload_id": "idle",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNjcxNzU5OV5BMl5BanBnXkFtZTgwOTMzODg3MTE@._V1_UY666_CR167,0,666,666_AL__QL50.jpg",
+      "print": "720p"
+    },
+    {
+      "imdb_rating": 7.9,
+      "year": 2008,
+      "genre": "Action",
+      "language": "English",
+      "length": "2h30m",
+      "movie_name": "Iron Man",
+      "openload_id": "idle",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjY4MDk0OTQ2MF5BMl5BanBnXkFtZTcwNTgxNTIzMw@@._V1_UY666_CR166,0,666,666_AL__QL50.jpg",
+      "print": "720p"
+    }
+  ]
+}
